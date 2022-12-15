@@ -1,5 +1,5 @@
 .container__content {
-    border: 1px solid white;
+
     width: 100%;
     height: 100vh;
 
@@ -28,4 +28,5 @@
 
 .content__description p{
     color: gray;
+    margin-top: 20px;
 }
